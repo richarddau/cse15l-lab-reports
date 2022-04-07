@@ -7,8 +7,8 @@
 * cantaloupe 
 
 ## Tasty Foods
-[Link]https://imgur.com/t/pizza/4Xdn0du
-![Image]https://i.imgur.com/ABtZ6B6.jpeg
+[Link](https://imgur.com/t/pizza/4Xdn0du)
+![Image](https://i.imgur.com/ABtZ6B6.jpeg)
 
 > These foods are nice.
 1. ice cream
