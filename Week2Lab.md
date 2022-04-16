@@ -95,7 +95,7 @@ above
 Finishing these steps will allow you to log in password free now!
 
 ## Optimizing Remote Running
-![Image](sc7.png)
+![Image](sc8.png)
 *Image shows the use of semicolons to run multiple commands at the same time*
 
 There are many shortcuts you can use to make your editing and command usuage more efficient. 
