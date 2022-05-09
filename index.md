@@ -2,6 +2,8 @@
 
 [Lab Report 1](lab-report-1-week-2.html)
 
+[Lab Report 3](Week6Lab.html)
+
 [Week 2 Lab Report Assignment Page](https://richarddau.github.io/cse15l-lab-reports/Week2Lab.html)
 
 *watermelon*
