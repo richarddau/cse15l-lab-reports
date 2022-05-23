@@ -4,7 +4,7 @@
 
 [Lab Report 3](Week6Lab.html)
 
-[Lab Report 2](lab-report-4-week-8.html)
+[Lab Report 4](lab-report-4-week-8.html)
 
 [Week 2 Lab Report Assignment Page](https://richarddau.github.io/cse15l-lab-reports/Week2Lab.html)
 
