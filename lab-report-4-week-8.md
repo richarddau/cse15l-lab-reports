@@ -1,5 +1,8 @@
 # Lab Report 4 Week 8 
 
+[My Repo](https://github.com/richarddau/markdown-parser)
+[Review Repo](https://github.com/AlexVazquez19/markdown-parser-echidnas)
+
 ## Snippet 1
 
 ### Preview of Snippet 1:
