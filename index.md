@@ -6,6 +6,9 @@
 
 [Lab Report 4](lab-report-4-week-8.html)
 
+[Lab Report 5](lab-report-5-week-9.html)
+
+
 [Week 2 Lab Report Assignment Page](https://richarddau.github.io/cse15l-lab-reports/Week2Lab.html)
 
 *watermelon*
