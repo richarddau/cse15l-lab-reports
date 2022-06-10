@@ -6,6 +6,10 @@ For today's lab, I'll be looking at two test files:
 
 [Test Fille 473](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/473.md)
 
+## How Did I Do It?
+
+I utulized the command `vimdiff` to see the different results of my version and the provided version from the lab. This command shows all file outputs for each implentation and highlights the main differences amonng the two implementations.
+
 ## Test File 201
 
 ![Image](9sc1.png)
