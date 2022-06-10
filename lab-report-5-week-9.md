@@ -4,7 +4,7 @@ For today's lab, I'll be looking at two test files:
 
 [Test File 201](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
-[Test Fille 472](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/473.md)
+[Test Fille 473](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/473.md)
 
 ## Test File 201
 
